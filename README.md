@@ -18,7 +18,7 @@ I'm currently Studying as a Software Engineer in Chile, where my journey involve
 
 - Detective Conan is my favorite anime.
 - My favorite animals are Dogs and Raccoons.
-- 
+- Native Spanish speaker, moderate English proficiency.
 
 ## 📫 Contact
 
