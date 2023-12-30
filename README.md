@@ -3,7 +3,7 @@
 I'm a 18-year-old developer based in Chile, and I'm passionate about crafting digital experiences. 
 
 - Check out my [website]-- to learn more about me.
-- Stay updated with my journey on [Instagram](https://www.instagram.com/cosyyyyyyyyyy), [LinkedIn]-- and [YouTube](https://www.youtube.com/@cosyfps).
+- Stay updated with my journey on [Instagram](https://www.instagram.com/cosyyyyyyyyyy) and [LinkedIn]--.
 - Explore my [VS Code Configuration]-- for development optimization.
 
 ## 🔭 Current Endeavors 
