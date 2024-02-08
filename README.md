@@ -3,7 +3,7 @@
 I'm a 18-year-old developer based in Chile, and I'm passionate about crafting digital experiences. 
 
 - Check out my [website]-- to learn more about me.
-- Stay updated with my journey on [Instagram](https://www.instagram.com/cosyyyyyyyyyy) and [LinkedIn]--.
+- Stay updated with my journey on [LinkedIn]--.
 - Explore my [VS Code Configuration]-- for development optimization.
 
 ## 🔭 Current Endeavors 
@@ -22,6 +22,6 @@ I'm currently Studying as a Software Engineer in Chile, where my journey involve
 
 ## 📫 Contact
 
- For a quick response, DM me on [Instagram](https://www.instagram.com/cosyyyyyyyyyy) or [LinkedIn]--. 
+ For a quick response, DM me on [LinkedIn]--. 
  
  For professional inquiries, reach out via email at [kelvin.morenog28@gmail.com](mailto:kelvin.morenog28@gmail.com). 
