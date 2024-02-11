@@ -1,5 +1,5 @@
 ### Hey, I'm Cosy👋 
- 
+  
 I'm a 18-year-old developer based in Chile, and I'm passionate about crafting digital experiences. 
 
 - Check out my [website]-- to learn more about me.
