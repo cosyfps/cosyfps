@@ -22,6 +22,6 @@ I'm currently Studying as a Software Engineer in Chile, where my journey involve
 
 ## 📫 Contact
 
- For a quick response, DM me on [LinkedIn]--. 
+For a quick response, DM me on [LinkedIn]--. 
  
- For professional inquiries, reach out via email at [kelvin.morenog28@gmail.com](mailto:kelvin.morenog28@gmail.com). 
+For professional inquiries, reach out via email at [kelvin.morenog28@gmail.com](mailto:kelvin.morenog28@gmail.com). 
