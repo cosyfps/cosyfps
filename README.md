@@ -10,9 +10,11 @@ I'm a 18-year-old developer based in Chile, and I'm passionate about crafting di
 
 I'm currently Studying as a Software Engineer in Chile, where my journey involves both building and learning.
 
-- Python         - HTML. CSS & JS
-- Java           - Django
+- Python
+- Java
 - SQL
+- HTML. CSS & JS
+- Django
 
 ## ✨ Fun Facts 
 
