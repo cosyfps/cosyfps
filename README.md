@@ -13,7 +13,7 @@ I'm currently Studying as a Software Engineer in Chile, where my journey involve
 - Python
 - Java
 - SQL
-- HTML. CSS & JS
+- HTML, CSS & JS
 - Django
 
 ## ✨ Fun Facts 
