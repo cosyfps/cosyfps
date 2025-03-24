@@ -1,29 +1,51 @@
-### Hey, I'm Cosy👋
+# 👋 Hi there! I'm Kelvin A. Moreno
 
-I'm a 19-year-old developer based in Chile, and I'm passionate about crafting digital experiences.
+🎓 I'm a 19-year-old aspiring **Back-End Developer** based in Chile, currently in my third year of **Software Engineering**.
 
-- Check out my [website]-- to learn more about me.
-- Stay updated with my journey on [LinkedIn](https://www.linkedin.com/in/kelvin-a-moreno/).
-- Explore my [VS Code Configuration]-- for development optimization.
+I'm passionate about building digital experiences that have real-world impact, and I aim to grow every day by both **creating** and **learning**.
 
-## 🔭 Current Endeavors 
+---
 
-I'm currently Studying as a Software Engineer in Chile, where my journey involves both building and learning.
+## 🛠️ Technical Skills
 
-- Python
-- Java
-- SQL
-- HTML, CSS & JS
-- Django
+- **Languages:** Python · Java · SQL  
+- **Web Technologies:** HTML · CSS · JavaScript  
+- **Frameworks & Tools:** Django · Angular · Ionic
 
-## ✨ Fun Facts 
+---
 
-- Detective Conan is my favorite anime.
-- My favorite animals are Dogs and Raccoons.
-- Native Spanish speaker, moderate English proficiency.
+## 🔍 Interests
 
-## 📫 Contact
+I'm especially interested in:
 
-For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/kelvin-a-moreno/). 
- 
-For professional inquiries, reach out via email at [kelvin.morenog28@gmail.com](mailto:kelvin.morenog28@gmail.com). 
+- **Back-end development**  
+- **Scalable system architectures**  
+- **Creative and tech-driven projects**
+
+---
+
+## 💡 Currently Looking For
+
+Opportunities to:
+
+- Join dynamic development teams  
+- Work on real-world impactful projects  
+- Learn and grow through new technologies
+
+---
+
+## ✨ Fun Facts
+
+- 🕵️ Detective Conan is my favorite anime  
+- 🐶🐾 I love dogs and raccoons  
+- 🗣️ Native Spanish speaker (🇻🇪-🇨🇱) | Intermediate English (B1–B2)
+
+---
+
+## 📬 Let's Connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/)**yourusername**  
+- 📧 kelvin.morenog28@gmail.com  
+- 📍 Santiago, Chile  
+
+Feel free to send me a message or reach out for collaborations and opportunities!
