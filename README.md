@@ -1,6 +1,7 @@
 # 👋 Hi there! I'm Kelvin A. Moreno
 
-🎓 I'm a 19-year-old aspiring **Back-End Developer** based in Chile, currently in my third year of **Software Engineering**.
+🎓 I'm a 19-year-old aspiring **Back-End Developer** based in 📍 Santiago, Chile. Currently in my third year of **Software Engineering**.
+ 
 
 I'm passionate about building digital experiences that have real-world impact, and I aim to grow every day by both **creating** and **learning**.
 
@@ -44,8 +45,7 @@ Opportunities to:
 
 ## 📬 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/)**yourusername**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/)
 - 📧 kelvin.morenog28@gmail.com  
-- 📍 Santiago, Chile  
 
 Feel free to send me a message or reach out for collaborations and opportunities!
